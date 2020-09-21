@@ -23,6 +23,9 @@ Name | Type | Required | Default value | Description
 `type` | `string` | yes | - | specify one from `words`, `sentences`, `paragraphs`
 `count` | `number` | _optional_ | 1 | specify number of times the `type` should be repeated
 
+## Example
+[Codesandbox Demo 📦](https://codesandbox.io/s/use-lorem-ipsum-forked-6gf24?file=/src/App.js)
+
 ## Usage
 
 ```jsx
@@ -40,7 +43,6 @@ export default () => {
   );
 }
 ```
-[Example Link](https://codesandbox.io/s/use-lorem-ipsum-forked-6gf24?file=/src/App.js)
 
 ## License
 
