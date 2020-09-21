@@ -1,6 +1,6 @@
-# local-storage-hook
+# use-lorem-ipsum
 
-> React Hook for Local Storage
+> React Hook for generating random lorem ipsum words, sentences, paragraphs
 
 [![NPM](https://img.shields.io/npm/v/use-lorem-ipsum.svg)](https://www.npmjs.com/package/use-lorem-ipsum) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
